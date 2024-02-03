@@ -1,1 +1,4 @@
-("link" : "google.com","key" : "báeuwgbsv")
+{
+  "link": "google.com",
+  "key": "báeuwgbsv"
+}
