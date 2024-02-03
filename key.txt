@@ -1,4 +1,4 @@
 {
   "link": "google.com",
-  "key": "WVdSdGFXND0="
+  "key": "WVdSdGFXND0"
 }
